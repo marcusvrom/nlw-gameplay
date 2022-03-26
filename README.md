@@ -1,10 +1,10 @@
-# Projeto da NLW Together da [Rocketseat](https://github.com/Rocketseat)
+# Projeto da NLW Together da [Rocketseat](https://github.com/Rocketseat) 🚀
 
 ## :computer: Projeto
 Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.
 
 
-## :tools: Features 
+## 🛠️ Features 
 
 -   [ ] Autenticação Social OAuth2 com servidor do Discord.
 -   [ ] Obtém perfil do usuário cadastro no Discord (username e avatar);
